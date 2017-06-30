@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1498128355 source:d:\c_workspace\apriori\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<string>
+	<Apriori.h>
+
+1498133671 source:d:\c_workspace\apriori\src\apriori.cpp
+	"Apriori.h"
+
+1498130199 d:\c_workspace\apriori\include\apriori.h
+	<vector>
+	<map>
+	<set>
+	<string>
+	<iostream>
+	<cmath>
+
